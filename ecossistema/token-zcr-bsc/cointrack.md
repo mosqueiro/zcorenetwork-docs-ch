@@ -16,3 +16,4 @@
 >
 > * [​](https://www.dextools.io/app/en/bnb/pair-explorer/0x83a5d4a893b9a78439e6dc499cd331d1185b7609)[https://www.dextools.io/app/en/bnb/pair-explorer/0x83a5d4a893b9a78439e6dc499cd331d1185b7609](https://www.dextools.io/app/en/bnb/pair-explorer/0x83a5d4a893b9a78439e6dc499cd331d1185b7609)​
 
+Please note that the content above is already in Mandarin. If you have any other content that needs to be translated, please provide it.

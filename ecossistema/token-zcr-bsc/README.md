@@ -17,6 +17,6 @@ layout:
     visible: true
 ---
 
-# 🪙 Token ZCR (BSC)
+# 🪙 ZCR 代币 (BSC)
 
-O token ZCR criado na rede BSC, terá uma ponte com a rede ZCN onde é o token padrão, para permitir uma interoperabilidade contínua entre os dois ecossistemas. O mecanismo de ponte possibilitará a troca do token ZCR na BSC por seu equivalente ZCN e vice-versa. Essa integração cria novas oportunidades para os usuários participarem de diversas aplicações DeFi e jogos usando a mesma moeda, além de aprimorar a liquidez e acessibilidade do token ZCR. Você pode se adiantar e comprá-lo agora, e até mesmo ganhar recompensas de staking antes do lançamento da mainnet.
+在 BSC 网络上创建的 ZCR 代币将与 ZCN 网络上的标准代币建立一座桥梁，以实现两个生态系统之间的持续互操作性。桥接机制将使 BSC 上的 ZCR 代币可以与其等价的 ZCN 进行交换，反之亦然。这种集成为用户创造了使用同一种货币参与各种 DeFi 应用和游戏的新机会，同时也增强了 ZCR 代币的流动性和可访问性。您现在可以提前购买，并甚至在主网发布之前赚取权益挖矿奖励。

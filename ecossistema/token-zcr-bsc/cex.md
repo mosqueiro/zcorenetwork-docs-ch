@@ -2,6 +2,6 @@
 
 ## Cointiger
 
-> _Pair: **USDT**_
+> _配对: **USDT**_
 >
-> * _Trade:_ [https://www.cointiger.com/en-us/#/trade\_center?coin=zcr\_usdt](https://www.cointiger.com/en-us/#/trade\_center?coin=zcr\_usdt)
+> * _交易:_ [https://www.cointiger.com/en-us/#/trade\_center?coin=zcr\_usdt](https://www.cointiger.com/en-us/#/trade\_center?coin=zcr\_usdt)

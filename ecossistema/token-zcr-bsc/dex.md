@@ -2,26 +2,26 @@
 
 ## Pancakeswap
 
-> _Initial LP: **BNB**_
+> _初始 LP: **BNB**_
 >
-> * _Token Tax: 3**% compra / 11% venda**_
-> *   _Swap:_ [_https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74_](https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74)\
+> * _代币税: 3**% 购买 / 11% 销售**_
+> *   _交换:_ [_https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74_](https://pancakeswap.finance/swap?outputCurrency=0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74)\
 >     \
->     **Taxa de Compra de 3%**:
+>     **购买费率为3%**:
 >
->     * **Mecanismo**: Refletido em ZCR.
->     * **Destino**: Financiar queimas de tokens, programas de staking e promoções da ZCore.
+>     * **机制**: 反映在ZCR中。
+>     * **目标**: 资助代币燃烧，质押程序和ZCore的促销活动。
 >
->     **Taxa de Venda de 11%**:
+>     **销售费率为11%**:
 >
->     * **Mecanismo**: Refletido em USDT.
->     * **Distribuição**:
->     * **3%** direcionados ao financiamento do projeto.
->     * **3%** fortalecendo a liquidez.
->     * **5%** distribuídos para:
+>     * **机制**: 反映在USDT中。
+>     * **分配**:
+>     * **3%** 用于项目融资。
+>     * **3%** 加强流动性。
+>     * **5%** 分配给：
 >
->     **1.5%** para detentores de ZCR.
+>     **1.5%** 给ZCR持有者。
 >
->     **2%** para detentores do NFT Farm Horses.
+>     **2%** 给NFT Farm Horses持有者。
 >
->     **1.5%** para detentores do NFT ZCN Validators.
+>     **1.5%** 给NFT ZCN Validators持有者。

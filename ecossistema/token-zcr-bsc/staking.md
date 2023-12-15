@@ -1,6 +1,6 @@
-# 🔐 Staking
+# 🔐 质押
 
-O staking de ZCR possibilita o recebimento de recompensas em USDT, provenientes das reflexões de 1,5% de ZCR, o que significa que os usuários não recebem ZCR e novos tokens ZCR não são criados. Essa abordagem assegura que a ZCR não se torne inflacionária, já que não há emissão adicional de tokens. A quantidade total de ZCR foi fixada em 2,5 bilhões desde o início. Você pode participar do staking acessando o site abaixo ou diretamente através do aplicativo ZCore Wallet :
+ZCR的质押使您可以获得来自1.5%的ZCR反射的USDT奖励，这意味着用户不会收到ZCR，也不会创建新的ZCR代币。这种方法确保ZCR不会变得通货膨胀，因为没有额外的代币发行。ZCR的总量从一开始就固定在25亿。您可以通过访问以下网站或直接通过ZCore Wallet应用程序参与质押：
 
 > :closed\_lock\_with\_key:[https://staking.zcore.network/stake](https://staking.zcore.network/stake)
 
