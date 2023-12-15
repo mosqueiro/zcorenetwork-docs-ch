@@ -1,30 +1,30 @@
-# Table of contents
+# 目录
 
-## BEM VINDO
+## 欢迎
 
-* [ℹ Sobre a ZCore](README.md)
-* [🛣 Roadmap](bem-vindo/roadmap.md)
+* [ℹ 关于ZCore](README.md)
+* [🛣 路线图](bem-vindo/roadmap.md)
 
-## ECOSSISTEMA
+## 生态系统
 
-* [🪙 Token ZCR (BSC)](ecossistema/token-zcr-bsc/README.md)
-  * [📈 Tokenomics](ecossistema/token-zcr-bsc/tokenomics.md)
-  * [🔐 Staking](ecossistema/token-zcr-bsc/staking.md)
+* [🪙 ZCR代币 (BSC)](ecossistema/token-zcr-bsc/README.md)
+  * [📈 代币经济学](ecossistema/token-zcr-bsc/tokenomics.md)
+  * [🔐 质押](ecossistema/token-zcr-bsc/staking.md)
   * [🔵 DEX](ecossistema/token-zcr-bsc/dex.md)
   * [🟡 CEX](ecossistema/token-zcr-bsc/cex.md)
   * [📊 Cointrack](ecossistema/token-zcr-bsc/cointrack.md)
 * [🌐 ZCore EVM (ZCN)](ecossistema/zcore-evm-zcn/README.md)
-  * [⚙ Configurações](ecossistema/zcore-evm-zcn/configuracoes.md)
-  * [✅ Validadores](ecossistema/zcore-evm-zcn/validadores.md)
-* [📱 ZCore Wallet App](ecossistema/zcore-wallet-app.md)
+  * [⚙ 配置](ecossistema/zcore-evm-zcn/configuracoes.md)
+  * [✅ 验证者](ecossistema/zcore-evm-zcn/validadores.md)
+* [📱 ZCore 钱包应用](ecossistema/zcore-wallet-app.md)
 * [🤖 ZCore AI](ecossistema/zcore-ai.md)
 * [🐎 NFT Farm Horses](ecossistema/nft-farm-horses.md)
-* [✅ NFT Validators](ecossistema/nft-validators.md)
+* [✅ NFT 验证者](ecossistema/nft-validators.md)
 * [🗳 DAO](ecossistema/dao.md)
-* [🏙 Metaverso ZCore City](ecossistema/metaverso-zcore-city.md)
+* [🏙 ZCore城市元宇宙](ecossistema/metaverso-zcore-city.md)
 
-## LINKS
+## 链接
 
-* [Website](https://zcore.network/)
+* [网站](https://zcore.network/)
 * [Twitter](https://twitter.com/zcorecrypto)
 * [Telegram](https://t.me/zcoreminers)
