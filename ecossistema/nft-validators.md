@@ -1,33 +1,33 @@
-# ✅ NFT Validators
+# ✅ NFT 验证器
 
 <figure><img src="../.gitbook/assets/ZCore_Passport-NFT-Cover.png" alt=""><figcaption></figcaption></figure>
 
-**Introdução ao Conceito de NFT Validators**
+**NFT 验证器概念介绍**
 
-A ZCore tem o prazer de apresentar sua exclusiva coleção de NFT Validators, uma iniciativa pioneira no mundo das criptomoedas e da tecnologia blockchain. Esta coleção representa não apenas um ativo digital único, mas também uma chave para participar ativamente na validação e no suporte da rede ZCore Network (ZCN).
+ZCore 很高兴向您介绍我们独特的 NFT 验证器收藏，这是加密货币和区块链技术世界的一项开创性的倡议。这个收藏不仅代表一个独特的数字资产，而且也是一个积极参与验证和支持 ZCore Network（ZCN）网络的关键。
 
-> :arrow\_right: Informações sobre Validadores ZCN
+> :arrow\_right: 关于 ZCN 验证器的信息
 >
 > [validadores.md](zcore-evm-zcn/validadores.md "mention")
 
-**Aquisição de NFT Validators: O Caminho Através de NFTs Lendários**
+**获取 NFT 验证器：通过传奇 NFT 的路径**
 
-Para se tornar um detentor de um NFT Validator, é essencial primeiro possuir um NFT lendário da ZCore. Esta pré-requisito assegura que apenas os participantes mais comprometidos e dedicados tenham a oportunidade de adquirir um NFT Validator. Cada NFT lendário é elegível para ser trocado por um NFT Validator, estabelecendo um caminho exclusivo e valioso para os entusiastas da criptomoeda.
+要成为一个 NFT 验证器的持有者，首先必须拥有一个 ZCore 的传奇 NFT。这个前提条件确保只有最投入和最专注的参与者才有机会获取一个 NFT 验证器。每一个传奇 NFT 都有资格被换成一个 NFT 验证器，为加密货币爱好者建立了一个独特而有价值的路径。
 
-> :arrow\_right: Informações sobre a Coleção Farm Horses
+> :arrow\_right: 关于 Farm Horses 收藏的信息
 >
 > [nft-farm-horses.md](nft-farm-horses.md "mention")
 
-**Privilegios e Benefícios dos Detentores de NFT Validators**
+**NFT 验证器持有者的特权和利益**
 
-Uma vez que um indivíduo se torna um detentor de um NFT Validator, ele ganha o poder de validar transações na rede ZCore Network (ZCN). Esta responsabilidade crucial não apenas mantém a integridade e a segurança da rede, mas também permite que os detentores recebam todas as taxas associadas às transações validadas.
+一旦一个人成为一个 NFT 验证器的持有者，他就获得了在 ZCore Network（ZCN）网络上验证交易的权力。这个关键的责任不仅维护了网络的完整性和安全性，而且还允许持有者接收所有与验证交易相关的费用。
 
-Além disso, os detentores de NFT Validators são beneficiados com um rendimento passivo de 1,5% das reflexões da ZCore (ZCR) na rede Binance Smart Chain (BSC). Este mecanismo de reflexão garante que os detentores de NFT Validators sejam continuamente recompensados pelo seu papel crucial na rede, proporcionando um fluxo de renda adicional e incentivando a participação a longo prazo.
+此外，NFT 验证器的持有者还可以从 Binance Smart Chain（BSC）网络上的 ZCore（ZCR）反射中获得 1.5% 的被动收入。这种反射机制确保 NFT 验证器的持有者因其在网络中的关键角色而持续得到奖励，提供了额外的收入流，并鼓励长期参与。
 
-> :arrow\_right: Informações sobre as reflexões ZCore (BSC) :&#x20;
+> :arrow\_right: 关于 ZCore（BSC）反射的信息 :&#x20;
 >
 > [dex.md](token-zcr-bsc/dex.md "mention")
 
-**Conclusão: Um Passo Inovador na Blockchain da ZCore**
+**结论：ZCore 区块链的创新步骤**
 
-A coleção de NFT Validators da ZCore simboliza um marco significativo na interseção da tecnologia blockchain, finanças descentralizadas e arte digital. Oferecendo um equilíbrio único entre participação ativa na rede e benefícios financeiros, esta coleção está destinada a desempenhar um papel fundamental no futuro da ZCore e na evolução do ecossistema de criptomoedas.
+ZCore 的 NFT 验证器集合在区块链技术、去中心化金融和数字艺术的交叉点上标志着一个重要的里程碑。这个集合提供了在网络活动参与和财务收益之间的独特平衡，预定在 ZCore 的未来和加密货币生态系统的演变中发挥关键的角色。

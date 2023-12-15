@@ -1,27 +1,27 @@
-# 📱 ZCore Wallet App
+# 📱 ZCore 钱包应用
 
 {% embed url="https://www.youtube.com/watch?v=V3gf4c3lPhE" %}
 
-> :mobile\_phone: ZCore Wallet Beta Download :&#x20;
+> :mobile\_phone: ZCore 钱包 Beta 下载 :&#x20;
 >
 > [https://zcore.network/app](https://zcore.network/app)
 
-No coração da inovação financeira digital, a ZCore se orgulha de apresentar o aplicativo ZCore Wallet, disponível para iOS e Android. Esta carteira descentralizada é mais do que um simples meio de armazenamento; é uma ferramenta abrangente destinada a investidores modernos que buscam segurança, eficiência e versatilidade.
+在数字金融创新的核心，ZCore 自豪地推出了 ZCore 钱包应用，适用于 iOS 和 Android。这个去中心化的钱包不仅仅是一个简单的存储工具；它是一种全面的工具，旨在为寻求安全性、效率和多功能性的现代投资者提供服务。
 
-**Segurança e Confiabilidade Intransigentes:** A ZCore Wallet oferece um armazenamento seguro, garantindo a paz de espírito para os usuários. Com tecnologia de ponta, a carteira protege os ativos digitais contra acessos não autorizados, assegurando a integridade e a privacidade das transações.
+**坚不可摧的安全性和可靠性：** ZCore 钱包提供安全的存储，确保用户的心态平和。通过尖端技术，钱包保护数字资产免受未经授权的访问，确保交易的完整性和隐私。
 
-**Swaps de Tokens Simplificados:** Os usuários podem realizar swaps de tokens com facilidade, aproveitando uma interface amigável e um processo simplificado. Isso proporciona flexibilidade e agilidade nas operações de troca de ativos.
+**简化的代币交换：** 用户可以轻松进行代币交换，利用友好的界面和简化的过程。这为资产交换操作提供了灵活性和敏捷性。
 
-**Compra de Tokens Via PIX:** Em uma integração pioneira, a ZCore Wallet permite a compra de tokens diretamente via PIX, o revolucionário sistema de pagamentos instantâneos do Brasil. Essa funcionalidade destaca o compromisso da ZCore com a inovação e a acessibilidade financeira.
+**通过 PIX 购买代币：** 在一项开创性的整合中，ZCore 钱包允许用户直接通过 PIX 购买代币，这是巴西的革命性即时支付系统。这个功能突显了 ZCore 对创新和金融可达性的承诺。
 
-**Pagamentos Instantâneos com PIX:** A carteira também permite realizar pagamentos instantâneos utilizando a solução PIX, oferecendo uma maneira rápida e segura de transacionar, alinhada às necessidades de um mundo cada vez mais ágil.
+**使用 PIX 进行即时支付：** 钱包还允许使用 PIX 解决方案进行即时支付，提供了一种快速安全的交易方式，符合一个越来越快速的世界的需求。
 
-**Conversão de Tokens para Moeda Fiduciária:** Disponível exclusivamente no Brasil, essa funcionalidade permite aos usuários converterem seus tokens em moeda fiduciária, facilitando a liquidez e o acesso a recursos financeiros no mundo real.
+**将代币转换为法定货币：** 这个功能仅在巴西可用，允许用户将他们的代币转换为法定货币，便于流动性和在现实世界中获取金融资源。
 
-**Oportunidades de Staking:** A ZCore Wallet oferece oportunidades de staking, permitindo que os usuários ganhem recompensas ao contribuir para a segurança e operacionalidade da rede. Isso representa uma forma atraente de gerar renda passiva.
+**权益挖矿的机会：** ZCore 钱包提供权益挖矿的机会，允许用户通过为网络的安全性和运营性做出贡献来获得奖励。这代表了一种吸引人的生成被动收入的方式。
 
-**NFTs Farm Horse:** A plataforma se destaca ainda mais com a integração de NFTs Farm Horse, abrindo portas para o fascinante mundo dos ativos digitais colecionáveis e proporcionando uma experiência única aos entusiastas de NFTs.
+**NFTs Farm Horse：** 该平台通过集成NFTs Farm Horse进一步脱颖而出，为收藏数字资产的迷人世界打开了大门，为NFTs爱好者提供了独特的体验。
 
-**Integração com ZCore NFT AI:** A cereja do bolo é a integração com a plataforma ZCore NFT AI, que utiliza inteligência artificial para enriquecer a experiência do usuário e explorar novas fronteiras no gerenciamento de ativos digitais.
+**与ZCore NFT AI集成：** 锦上添花的是与ZCore NFT AI平台的集成，该平台利用人工智能丰富用户体验，探索数字资产管理的新领域。
 
-Em suma, a ZCore Wallet é uma solução abrangente que atende às demandas dos investidores modernos, oferecendo segurança, versatilidade e uma série de funcionalidades inovadoras. É mais do que uma carteira; é uma janela para o futuro dos ativos digitais.
+总的来说，ZCore Wallet是一种全面的解决方案，满足现代投资者的需求，提供安全性、多功能性和一系列创新功能。它不仅仅是一个钱包；它是通往数字资产未来的窗口。

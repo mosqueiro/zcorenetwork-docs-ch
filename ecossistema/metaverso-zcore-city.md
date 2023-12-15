@@ -1,17 +1,19 @@
-# 🏙 Metaverso ZCore City
+# 🏙 ZCore城市元宇宙
 
 {% embed url="https://www.youtube.com/watch?v=TZ9T3pn151A" %}
 
-**Bem-vindo ao futuro dos jogos NFT: a ZCore City.** Este é um universo digital onde a imaginação encontra a realidade, e a gamificação alcança um novo patamar. Para os aficionados por jogos imersivos, a ZCore City representa a fronteira final, superando todas as expectativas no mundo dos jogos com NFTs.
+**欢迎来到NFT游戏的未来：ZCore城市。** 这是一个数字宇宙，想象力在这里遇见现实，游戏化达到了新的高度。对于沉浸式游戏的爱好者来说，ZCore城市代表了最后的边疆，超越了所有在NFT游戏世界的期望。
 
-Imagine um lugar onde você pode adquirir propriedades digitais exclusivas, embarcar em aventuras emocionantes, interagir com uma comunidade vibrante de jogadores e acessar recursos únicos. Tudo isso se torna possível ao se tornar detentor da coleção de NFT Farm Horses. Esta coleção não é apenas uma série de ativos digitais; é a chave para desbloquear um mundo de possibilidades dentro da ZCore City.
+想象一个地方，你可以获得独特的数字属性，开始激动人心的冒险，与活跃的玩家社区互动，访问独特的资源。所有这些都在你成为NFT Farm Horses收藏品的持有者时成为可能。这个收藏品不仅仅是一系列的数字资产；它是解锁ZCore城市内无限可能的钥匙。
 
-Inspirado pelo dinâmico e envolvente universo do GTA RP, ZCore City eleva a experiência para um nível totalmente novo. Com um servidor exclusivo da ZCore, os usuários podem explorar livremente este mundo expansivo, conhecer novos amigos, passear pelas ruas vibrantes da cidade e até visitar o icônico prédio da ZCore Network no coração do metaverso.
+受到动态且引人入胜的GTA RP宇宙的启发，ZCore城市将体验提升到了全新的水平。有了ZCore的专属服务器，用户可以自由地探索这个广阔的世界，结识新朋友，漫步在城市的繁华街道上，甚至可以参观位于元宇宙中心的ZCore Network的标志性大楼。
 
 {% embed url="https://www.youtube.com/watch?v=J2oMiLUjmnQ" %}
 
-O desenvolvimento de ZCore City é um testemunho da inovação e dedicação. Um demo do jogo foi recentemente lançado, proporcionando aos jogadores um vislumbre deste mundo fascinante. Após um período de ajustes finos para garantir a melhor experiência possível, o jogo está se preparando para um lançamento grandioso.
+ZCore城市的开发是创新和奉献的见证。游戏的演示版最近已经发布，让玩家们对这个迷人的世界有了初步的了解。经过一段时间的微调以确保最佳的体验，游戏正在为大规模的发布做准备。
 
-A antecipação cresce enquanto nos aproximamos do lançamento da rede ZCN. Mas antes disso, a comunidade ZCore terá a oportunidade exclusiva de experimentar ZCore City novamente, com um novo demo que promete ser ainda mais impressionante.
+随着我们接近ZCN网络的发布，期待感正在增长。但在此之前，ZCore社区将有独特的机会再次体验ZCore城市，一个新的演示版承诺将更加令人印象深刻。
 
-Este não é apenas um jogo; é uma experiência, uma comunidade, uma nova forma de viver e interagir no mundo digital. ZCore City está definindo o futuro dos jogos NFT, e você está convidado a ser parte desta revolução. Prepare-se para explorar, criar e conquistar em um mundo onde as possibilidades são tão ilimitadas quanto a sua imaginação. Bem-vindo à ZCore City.
+这不仅仅是一个游戏；它是一种体验，一个社区，一种在数字世界中生活和互动的新方式。ZCore城市正在定义NFT游戏的未来，你被邀请成为这场革命的一部分。准备好在一个可能性无限的世界中探索、创造和征服。欢迎来到ZCore城市。
+
+Sure, please provide the Markdown content you want to translate into Mandarin.
