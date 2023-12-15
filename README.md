@@ -3,15 +3,15 @@ cover: .gitbook/assets/ZCore_Rebranding.png
 coverY: 0
 ---
 
-# ℹ Sobre a ZCore
+# ℹ 关于ZCore
 
-A ZCore Network é uma inovadora empresa de tecnologia blockchain, destacando-se no mercado com uma gama de produtos e serviços avançados. Entre seus principais produtos, estão:
+ZCore Network是一家创新的区块链技术公司，在市场上以一系列先进的产品和服务脱颖而出。其主要产品包括：
 
-1. **ZCore Wallet**: Esta carteira digital representa a espinha dorsal da oferta de produtos da ZCore. É uma solução segura e versátil para o armazenamento e gerenciamento de criptomoedas, oferecendo uma interface intuitiva para usuários de todos os níveis.
-2. **Solução PIX integrada à ZCore Wallet**: Esta integração inovadora permite transações rápidas e seguras usando o sistema PIX, um método de pagamento instantâneo amplamente utilizado no Brasil. Essa funcionalidade torna a ZCore Wallet ainda mais acessível e conveniente para os usuários, facilitando a movimentação de fundos entre criptomoedas e moeda fiat.
-3. **Plataforma ZCore AI**: Uma plataforma avançada que utiliza inteligência artificial para otimizar a experiência de trading e gestão de ativos digitais. A ZCore AI analisa o mercado de criptomoedas, fornecendo insights valiosos e ajudando os usuários a tomar decisões de investimento mais informadas.
-4. **Integração da Plataforma ZCore AI no Aplicativo ZCore Wallet**: Esta integração une o melhor dos dois mundos – a conveniência da ZCore Wallet e a inteligência avançada da ZCore AI. Com isso, os usuários têm acesso a análises de mercado e recomendações de trading diretamente em suas carteiras digitais.
-5. **Rede EVM ZCN**: A ZCore Network também se destaca com sua própria Rede EVM (Ethereum Virtual Machine), chamada ZCN. Esta rede oferece compatibilidade com aplicativos descentralizados (DApps) e smart contracts, permitindo aos desenvolvedores criar e lançar soluções inovadoras no ecossistema ZCore.
-6. **Metaverso ZCore City**: Um ambicioso projeto que representa a entrada da ZCore no universo dos metaversos. ZCore City é um ambiente virtual imersivo, onde os usuários podem interagir, participar em eventos, jogos e outras atividades, usando a tecnologia blockchain para uma experiência segura e descentralizada.
+1. **ZCore Wallet**：这个数字钱包是ZCore产品提供的核心。它是一个安全且多功能的加密货币存储和管理解决方案，为所有级别的用户提供直观的界面。
+2. **将PIX解决方案集成到ZCore Wallet中**：这种创新的集成允许使用PIX系统进行快速安全的交易，PIX是巴西广泛使用的即时支付方法。这个功能使ZCore Wallet对用户更加方便，便于在加密货币和法定货币之间转移资金。
+3. **ZCore AI平台**：这是一个先进的平台，利用人工智能优化交易和数字资产管理的体验。ZCore AI分析加密货币市场，提供有价值的见解，帮助用户做出更明智的投资决策。
+4. **将ZCore AI平台集成到ZCore Wallet应用程序中**：这种集成结合了两个世界的优点 - ZCore Wallet的便利性和ZCore AI的先进智能。因此，用户可以直接在他们的数字钱包中获取市场分析和交易建议。
+5. **ZCN EVM网络**：ZCore Network也以其自己的EVM（以太坊虚拟机）网络，名为ZCN，而闻名。这个网络与去中心化应用程序（DApps）和智能合约兼容，允许开发人员在ZCore生态系统中创建和发布创新解决方案。
+6. **ZCore City元宇宙**：这是一个雄心勃勃的项目，代表了ZCore进入元宇宙的世界。ZCore City是一个沉浸式的虚拟环境，用户可以在其中互动，参加活动，游戏和其他活动，使用区块链技术实现安全和去中心化的体验。
 
-No conjunto, a ZCore Network oferece um ecossistema robusto e integrado para os entusiastas de criptomoedas e blockchain, marcando sua presença como uma líder inovadora no setor.
+总的来说，ZCore Network为加密货币和区块链爱好者提供了一个强大且集成的生态系统，以其在行业中的创新领导者身份标记其存在。
