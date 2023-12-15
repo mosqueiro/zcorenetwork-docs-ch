@@ -1,11 +1,11 @@
-# ⚙ Configurações
+# ⚙ 配置
 
-**Network Name:** ZCore Testnet
+**网络名称：** ZCore 测试网
 
-**New RPC URL:** [https://rpc-testnet.zcore.cash/](https://rpc-testnet.zcore.cash/)
+**新的 RPC URL：** [https://rpc-testnet.zcore.cash/](https://rpc-testnet.zcore.cash/)
 
-**ChainID:** 3331
+**链ID：** 3331
 
-**Symbol:** ZCR
+**符号：** ZCR
 
-**Block Explorer URL:** [https://testnet.zcore.network/](https://testnet.zcore.network/)
+**区块浏览器 URL：** [https://testnet.zcore.network/](https://testnet.zcore.network/)

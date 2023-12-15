@@ -1,42 +1,42 @@
-# ✅ Validadores
+# ✅ 验证器
 
 <figure><img src="../../.gitbook/assets/ZCore_Passport-NFT-Cover.png" alt=""><figcaption></figcaption></figure>
 
-**O Sistema de Validadores da Rede ZCN**
+**ZCN网络的验证器系统**
 
-A Rede ZCN da ZCore Network apresenta um inovador sistema de validação, baseado em um modelo exclusivo que integra a tecnologia NFT com a mecânica de validação de blockchain. Este sistema é crucial para manter a segurança e a eficiência da rede.
+ZCore Network的ZCN网络引入了一种创新的验证系统，基于一种独特的模型，将NFT技术与区块链验证机制相结合。这个系统对于维护网络的安全性和效率至关重要。
 
-**Limitação e Representação dos Validadores**
+**验证器的限制和表示**
 
-A rede ZCN impõe um limite estrito de 40 validadores. Esses validadores são representados por uma coleção única de NFTs, denominada "ZCN Validators". Esta abordagem garante uma distribuição equitativa e controlada do poder de validação na rede.
+ZCN网络严格限制验证器的数量为40个。这些验证器由一组独特的NFTs表示，称为"ZCN Validators"。这种方法确保了网络验证权力的公平和受控分配。
 
-**Requisitos para Ser um Validador**
+**成为验证器的要求**
 
-Para se tornar um validador na Rede ZCN, são necessários três componentes principais:
+要成为ZCN网络的验证器，需要三个主要组件：
 
-1. **NFT Validador**: Cada validador deve possuir um NFT da coleção ZCN Validators.
-2. **Stake de ZCR**: É necessário um stake de 10 milhões de ZCR para se qualificar como validador.
-3. **Infraestrutura Técnica**: Os validadores precisam operar um VPS (Virtual Private Server) executando o software específico de validação.
+1. **验证器NFT**：每个验证器必须拥有一个来自ZCN Validators集合的NFT。
+2. **ZCR Stake**：要成为验证器，需要持有1000万ZCR的股份。
+3. **技术基础设施**：验证器需要运行一个执行特定验证软件的VPS（Virtual Private Server）。
 
-**Mecânica de Recompensa e Processo de Validação**
+**奖励机制和验证过程**
 
-Na Rede ZCN, os validadores são recompensados por cada bloco descoberto. O processo segue um sistema de fila, onde cada validador recebe a recompensa por blocos descobertos em sequência. Essa mecânica garante uma distribuição justa e sistemática das recompensas. Os interessados podem observar esse processo em ação na testnet da rede.
+在ZCN网络中，验证器会因发现每个区块而获得奖励。该过程遵循一个队列系统，其中每个验证器按顺序接收发现的区块的奖励。这种机制确保了奖励的公平和系统性分配。有兴趣的人可以在网络的测试网上观察这个过程。
 
 > :globe\_with\_meridians: ZCN Testnet :&#x20;
 >
 > [https://testnet.zcore.network/](https://testnet.zcore.network/)
 
-**Emissão e Disponibilidade dos NFTs Validadores**
+**验证器NFT的发行和可用性**
 
-Até o momento, 29 dos 40 NFTs Validadores já foram emitidos, restando apenas 11 disponíveis. Essa escassez destaca a exclusividade e o valor desses NFTs no ecossistema ZCN.
+到目前为止，40个验证器NFT中的29个已经发行，只剩下11个可用。这种稀缺性突显了这些NFT在ZCN生态系统中的独特性和价值。
 
-**Adquirindo um NFT Validador**
+**获取验证器NFT**
 
-Para adquirir um NFT Validador, os usuários devem primeiro mintar um NFT da coleção Farm Horses. Dentro desta coleção, os NFTs Lendários são os únicos que concedem o direito a um NFT Validador. Os NFTs Lendários restantes estão distribuídos aleatoriamente na coleção Farm Horses, adicionando um elemento de surpresa e oportunidade na busca por se tornar um validador na Rede ZCN.
+要获取验证器NFT，用户首先需要从Farm Horses集合中铸造一个NFT。在这个集合中，只有传奇的NFT才能赋予用户一个验证器NFT的权利。剩余的传奇NFT随机分布在Farm Horses集合中，为成为ZCN网络的验证器增加了惊喜和机会的元素。
 
 > :racehorse: Mint NFT Farm Horses : \
 > [https://zcore.network/mint.html](https://zcore.network/mint.html)
 
-**Conclusão**
+**结论**
 
-O sistema de validadores da Rede ZCN é um exemplo notável de como a inovação e a tecnologia blockchain podem ser harmonizadas para criar um ecossistema seguro, justo e eficiente. A integração de NFTs neste processo não apenas adiciona um aspecto único de colecionabilidade, mas também garante um sistema de validação robusto e confiável para a rede ZCN. À medida que a rede continua a crescer e se desenvolver, os validadores desempenharão um papel crucial na manutenção da integridade e no avanço do ecossistema ZCore.
+ZCN网络的验证器系统是一个显著的例子，展示了创新和区块链技术如何可以和谐地结合，创建一个安全、公平且高效的生态系统。在此过程中集成NFT不仅增加了独特的收藏性，而且确保了ZCN网络的强大和可靠的验证系统。随着网络的持续增长和发展，验证器将在维护完整性和推进ZCore生态系统中发挥关键作用。

@@ -2,33 +2,33 @@
 
 <figure><img src="../../.gitbook/assets/Captura de Tela 2023-12-14 às 11.33.29.png" alt=""><figcaption><p><a href="https://testnet.zcore.network/">https://testnet.zcore.network/</a></p></figcaption></figure>
 
-**Introdução à Rede EVM ZCN da ZCore Network**
+**ZCore Network的ZCN EVM网络介绍**
 
-Estamos entusiasmados em apresentar a Rede EVM ZCN da ZCore Network, um avanço significativo na nossa infraestrutura blockchain, com lançamento previsto para fevereiro de 2024. Esta rede representa um marco na evolução da ZCore, fortalecendo nossa posição no ecossistema de criptomoedas.
+我们很高兴向您介绍ZCore Network的ZCN EVM网络，这是我们区块链基础设施的重大进步，预计将于2024年2月发布。这个网络代表了ZCore发展的一个里程碑，加强了我们在加密货币生态系统中的地位。
 
-**Desenvolvimento e Teste da Rede**
+**网络的开发和测试**
 
-O desenvolvimento da Rede ZCN foi concluído com sucesso, e atualmente está em fase de teste na nossa testnet. Isso permite que desenvolvedores e usuários experimentem a rede em um ambiente controlado, garantindo estabilidade e segurança antes do lançamento oficial.
+ZCN网络的开发已经成功完成，目前正在我们的测试网上进行测试。这使得开发者和用户可以在一个受控的环境中体验网络，确保在正式发布之前的稳定性和安全性。
 
-**Integração com o Token ZCR**
+**与ZCR代币的集成**
 
-Uma das características mais notáveis da Rede ZCN é a integração com o token ZCR da rede Binance Smart Chain (BSC). Os tokens ZCR poderão ser transferidos para a Rede ZCN através de uma bridge dedicada, transformando o ZCR na moeda nativa da Rede ZCN. Além disso, os tokens poderão ser transferidos de volta para a rede BSC, mantendo o supply total de ZCR constante em 2,5 bilhões. Essa interoperabilidade reforça a flexibilidade e a liquidez do ZCR, ampliando seu alcance e aplicabilidade.
+ZCN网络最显著的特点之一是与Binance Smart Chain (BSC)网络的ZCR代币的集成。ZCR代币将能够通过一个专用的桥接被转移到ZCN网络，将ZCR变成ZCN网络的本地货币。此外，这些代币可以被转回到BSC网络，保持ZCR的总供应量在25亿的常数。这种互操作性增强了ZCR的灵活性和流动性，扩大了其覆盖范围和适用性。
 
-**Utilidade e Valor do ZCR na Rede ZCN**
+**ZCR在ZCN网络中的价值和用途**
 
-Na Rede ZCN, todas as transações são processadas utilizando o ZCR, o que confere maior valor e utilidade à moeda ZCore. Isso não apenas fortalece a posição do ZCR no mercado, mas também incentiva seu uso ativo dentro do ecossistema ZCore.
+在ZCN网络中，所有的交易都是使用ZCR进行处理的，这给ZCore货币带来了更大的价值和用途。这不仅加强了ZCR在市场中的地位，而且还鼓励了其在ZCore生态系统中的积极使用。
 
-**Compatibilidade com Smart Contracts e Ferramentas**
+**与智能合约和工具的兼容性**
 
-Um aspecto crucial da Rede ZCN é sua compatibilidade com smart contracts e ferramentas das redes Ethereum e BSC. Isso significa que desenvolvedores e usuários que já estão familiarizados com estas plataformas poderão facilmente migrar ou expandir suas operações para a Rede ZCN, aproveitando a eficiência e os recursos avançados que ela oferece.
+ZCN网络的一个关键方面是其与Ethereum和BSC网络的智能合约和工具的兼容性。这意味着已经熟悉这些平台的开发者和用户可以轻松地迁移或扩展他们的操作到ZCN网络，利用它提供的效率和先进的资源。
 
-**Integração com o Aplicativo ZCore Wallet**
+**与ZCore Wallet应用程序的集成**
 
-A Rede ZCN também será integrada ao aplicativo ZCore Wallet. Esta integração simplificará o acesso à rede, promovendo uma adoção mais ampla e facilitando o uso diário. Com essa implementação, a ZCore Network não apenas expande seu alcance tecnológico, mas também se esforça para tornar a experiência do usuário mais fluida e acessível.
+ZCN网络也将与ZCore Wallet应用程序集成。这种集成将简化对网络的访问，促进更广泛的采用，并简化日常使用。通过这种实施，ZCore Network不仅扩大了其技术范围，而且还努力使用户体验更流畅和易于访问。
 
-**Conclusão**
+**结论**
 
-A Rede EVM ZCN da ZCore Network é um passo significativo para a frente na nossa missão de oferecer uma plataforma blockchain robusta, flexível e de fácil utilização. Com sua integração com o ZCR, compatibilidade com outras redes líderes e facilidade de uso através do ZCore Wallet, a Rede ZCN está pronta para ser uma força inovadora no universo das criptomoedas. Convidamos nossa comunidade a participar ativamente desta emocionante jornada rumo ao futuro da tecnologia blockchain.
+ZCore Network的ZCN EVM网络是我们提供强大，灵活且易于使用的区块链平台任务的重要步骤。通过与ZCR的集成，与其他领先网络的兼容性，以及通过ZCore Wallet的易用性，ZCN网络已准备好成为加密货币世界的创新力量。我们邀请我们的社区积极参与这个激动人心的旅程，走向区块链技术的未来。
 
 > :globe\_with\_meridians: ZCN Testnet :&#x20;
 >
