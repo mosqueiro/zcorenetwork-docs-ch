@@ -1,49 +1,83 @@
 # 🤖 ZCore AI
 
-{% embed url="https://www.youtube.com/watch?v=J2vkmX-4fDs" %}
-https://ai.zcore.network
+{% embed url="https://youtu.be/n-Vb3uSNhls" %}
+**ZCore AI如何运作**
 {% endembed %}
 
-> :globe\_with\_meridians: 测试平台 :&#x20;
->
-> [https://ai.zcore.network](https://ai.zcore.network)
+> :globe\_with\_meridians: [https://ai.zcore.network](https://ai.zcore.network)
 
-我们自豪地介绍的一项重大创新是 ZCore AI 人工智能平台。这个去中心化的平台即将彻底改变 NFT 领域，完全改变了它们的创建和交易方式。结合了人工智能的前沿，它提供了一键即达的简化访问，开启了在 NFT 创作中的创新和可负担的可能性。准备好体验一种独特的体验，技术和艺术以前所未有的方式相遇！\
-有了 ZCore AI，用户可以只需一键，无需编码技能，就可以使用人工智能创建 NFT。
+欢迎来到ZCore AI，这是一个创新的人工智能平台，专注于创建和生成NFTs。本文档提供了如何使用该平台的全面指南，最大化其功能并探索其优点。
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*XRkQVByW4xqgwdtkKvT1dA.png" alt="" height="343" width="700"><figcaption><p>燃烧 ZCR 以生成图像</p></figcaption></figure>
+#### 如何使用ZCore AI
 
-**使用 AI 创建 NFT**
+**访问和初始设置**
 
-ZCore AI 提供了一种在 NFT 创作中的革命性方法，使用户能够在瞬间生成独特的 NFT。这为所有人打开了一个创新可能性的世界。
+* 访问ZCore AI网站。
+* 在BSC网络上连接您的钱包。
+* 在“设置”中创建和配置您的个人资料。
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8_gqQNxF2sNOHR7HTPk9Cg.png" alt="" height="342" width="700"><figcaption><p>NFT 锦标赛</p></figcaption></figure>
+**创建AI NFTs**
 
-**ZCore AI 的三种货币化方式**
+* 在菜单中选择“创建”以开始创建AI图像。
+* 生成最多五个免费图像，每生成一个NFT后限制将重置。
+* 使用“描述”字段详细说明您的图像。
+* 探索其他选项，如“改善我的描述”，“真实照片”和“在现有图像上使用提示”。
+* 选择您的偏好后，点击“为AI NFT生成图像”。
 
-* 推荐计划：推荐朋友并获得他们所有消费的 5%。
-* NFT 竞赛：将 AI 创建的 NFT 提交到每月竞赛中，有机会赢取 USDT 奖励。
-* AI 提示销售：将与生成的图像关联的 AI 提示一起与 NFT 出售。
+**生成和销售NFTs**
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*jaD6KVuSU_b7CNqubAF1mQ.png" alt="" height="343" width="700"><figcaption><p>您可以生成图像，然后转换为 NFT</p></figcaption></figure>
+* 获取“NFT票”。
+* 在“奖励铸币”中选择您的代币并设置数量。
+* 铸币后，访问市场以出售您的NFT。
 
-**战略收入分配**
 
-平台的收入按以下方式分配：
 
-* 40%的ZCR被烧毁，有助于货币升值。
-* 其他60%分为：\
-  \- 20%用于NFT锦标赛\
-  \- 20%用于ZCR的质押，Farm Horses和验证者\
-  \- 5%用于推荐计划\
-  \- 15%用于平台成本（服务器，API，开发）
+{% embed url="https://youtu.be/GqWV_d1FjUM" %}
+**ZCore AI上的代币开发者的优势**
+{% endembed %}
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*8gnHefiFsgR36QAD-Ls0Xg.png" alt="" height="234" width="700"><figcaption><p>Farm Horses的变化</p></figcaption></figure>
+**可见性和接触尖端技术**
 
-Farm Horses NFT收藏的持有者将从新平台获得奖励，并在艺术选择的锦标赛中发挥重要作用。此外，他们将享有独家特权，例如访问特殊部分以创建3D变体和提升其NFT的图像。这个功能，免费提供并通过简单的点击激活，是NFT所有者的独家福利。这种举措不仅提升了他们的收藏价值，还为每件作品增添了活力和审美的维度。
+* 提升您的项目在加密货币市场中的知名度。
+* 将您的代币整合到AI世界中。
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:700/1*WwQUSuJwXcu3Rl5uUVCYaw.png" alt="" height="343" width="700"><figcaption><p>AI生成的个人资料</p></figcaption></figure>
+**对开发者的直接好处**
 
-**光明的未来：扩张和整合**
+* 直接在您的钱包中接收USDT。
+* 赚取用您的代币购买的每张票的10%。
+* 在推荐的情况下分享利润。
 
-ZCore AI最初在BSC网络上发布，将根据新的路线图迁移到ZCN网络。平台也将与ZCore Wallet应用程序集成。
+**市场影响和独特机会**
+
+* 提高您的代币的可见性和参与度。
+* 吸引新的用户和投资者。
+* 在市场上提升您的代币价值。
+
+#### 如何列出您的代币
+
+* 与ZCore AI团队取得联系。
+* 在列表中提供开发者的代币钱包。
+* 享受免费的代币上市。
+
+#### 票收入的价值划分
+
+**ZCR代币票**
+
+* 50%的ZCR被销毁。
+* 50%转换为USDT，其中：\
+  \- 10%的USDT用于推荐朋友。\
+  \- 35%的USDT用于支付平台费用。\
+  \- 65%的USDT用于奖励铸币。
+
+**带有其他代币的门票**
+
+* 50%用于购买ZCR并销毁。
+* 50%转换为USDT，其中：\
+  \- 10%的USDT用于那些推荐朋友的人。\
+  \- 10%的USDT用于代币开发者。\
+  \- 25%的USDT用于覆盖平台成本。\
+  \- 65%的USDT用于奖励铸币。
+
+### 结论
+
+ZCore AI不仅是创建和销售NFT的平台，它对代币开发者来说是一个独特的机会。凭借直观的界面和创新的功能，ZCore AI是探索NFT和AI在加密货币市场潜力的理想工具。不要错过将您的想法转化为数字艺术作品，并在竞争激烈的加密货币世界中提升您的代币的机会。
